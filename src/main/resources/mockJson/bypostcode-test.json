@@ -1,0 +1,9 @@
+{
+  "Area": "Test",
+  "Restaurants": [],
+  "promotedPlacement": {
+    "filteredSearchPromotedLimit": 2,
+    "rankedIds": [],
+    "restaurants": {}
+  }
+}
